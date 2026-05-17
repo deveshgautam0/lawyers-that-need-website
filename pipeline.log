@@ -1,0 +1,188 @@
+2026-05-17 09:21:54,145 | INFO    | pipeline | ======================================================================
+2026-05-17 09:21:54,145 | INFO    | pipeline | LEAD GENERATION PIPELINE STARTED at 2026-05-17 09:21:54.145058
+2026-05-17 09:21:54,145 | INFO    | pipeline | ======================================================================
+2026-05-17 09:21:55,479 | INFO    | deduplicator | Deduplication DB initialized at leads.db
+2026-05-17 09:21:55,479 | INFO    | scraper | ============================================================
+2026-05-17 09:21:55,479 | INFO    | scraper | Starting Twitter/X scrape...
+2026-05-17 09:21:57,162 | INFO    | scraper | Nitter https://nitter.poast.org | "looking for a website" (lawyer OR attorney OR "la... → 0 results
+2026-05-17 09:22:01,258 | INFO    | scraper | Nitter https://nitter.poast.org | "need a website" (lawyer OR attorney OR "law offic... → 0 results
+2026-05-17 09:22:04,914 | INFO    | scraper | Nitter https://nitter.poast.org | "no website yet" (law OR legal OR attorney)... → 0 results
+2026-05-17 09:22:08,921 | INFO    | scraper | Nitter https://nitter.poast.org | "want a website" (lawyer OR firm)... → 0 results
+2026-05-17 09:22:13,716 | INFO    | scraper | Nitter https://nitter.poast.org | "doesn't have a website" attorney... → 0 results
+2026-05-17 09:22:20,816 | INFO    | scraper | Nitter https://nitter.poast.org | "build me a website" (lawyer OR attorney)... → 0 results
+2026-05-17 09:22:25,328 | INFO    | scraper | Nitter https://nitter.poast.org | "help with website" ("law firm" OR attorney)... → 0 results
+2026-05-17 09:22:30,646 | INFO    | scraper | Nitter https://nitter.poast.org | "recommend a web designer" (lawyer OR legal)... → 0 results
+2026-05-17 09:22:35,379 | INFO    | scraper | Nitter https://nitter.lqdev.org | "looking for a website" (lawyer OR attorney OR "la... → 0 results
+2026-05-17 09:22:37,508 | INFO    | scraper | Nitter https://nitter.lqdev.org | "need a website" (lawyer OR attorney OR "law offic... → 0 results
+2026-05-17 09:22:41,970 | INFO    | scraper | Nitter https://nitter.lqdev.org | "no website yet" (law OR legal OR attorney)... → 0 results
+2026-05-17 09:22:45,234 | INFO    | scraper | Nitter https://nitter.lqdev.org | "want a website" (lawyer OR firm)... → 0 results
+2026-05-17 09:22:49,974 | INFO    | scraper | Nitter https://nitter.lqdev.org | "doesn't have a website" attorney... → 0 results
+2026-05-17 09:22:52,256 | INFO    | scraper | Nitter https://nitter.lqdev.org | "build me a website" (lawyer OR attorney)... → 0 results
+2026-05-17 09:22:56,537 | INFO    | scraper | Nitter https://nitter.lqdev.org | "help with website" ("law firm" OR attorney)... → 0 results
+2026-05-17 09:23:00,286 | INFO    | scraper | Nitter https://nitter.lqdev.org | "recommend a web designer" (lawyer OR legal)... → 0 results
+2026-05-17 09:23:04,160 | INFO    | scraper | Nitter https://nitter.net | "looking for a website" (lawyer OR attorney OR "la... → 0 results
+2026-05-17 09:23:08,090 | INFO    | scraper | Nitter https://nitter.net | "need a website" (lawyer OR attorney OR "law offic... → 0 results
+2026-05-17 09:23:11,849 | INFO    | scraper | Nitter https://nitter.net | "no website yet" (law OR legal OR attorney)... → 0 results
+2026-05-17 09:23:17,407 | INFO    | scraper | Nitter https://nitter.net | "want a website" (lawyer OR firm)... → 0 results
+2026-05-17 09:23:24,074 | INFO    | scraper | Nitter https://nitter.net | "doesn't have a website" attorney... → 0 results
+2026-05-17 09:23:31,266 | INFO    | scraper | Nitter https://nitter.net | "build me a website" (lawyer OR attorney)... → 0 results
+2026-05-17 09:23:37,200 | INFO    | scraper | Nitter https://nitter.net | "help with website" ("law firm" OR attorney)... → 0 results
+2026-05-17 09:23:51,005 | INFO    | pipeline | ======================================================================
+2026-05-17 09:23:51,006 | INFO    | pipeline | LEAD GENERATION PIPELINE STARTED at 2026-05-17 09:23:51.005914
+2026-05-17 09:23:51,006 | INFO    | pipeline | ======================================================================
+2026-05-17 09:23:51,321 | INFO    | deduplicator | Deduplication DB initialized at leads.db
+2026-05-17 09:23:51,321 | INFO    | scraper | ============================================================
+2026-05-17 09:23:51,321 | INFO    | scraper | Starting Twitter/X scrape...
+2026-05-17 09:23:51,330 | INFO    | scraper | Nitter https://nitter.lqdev.org | "looking for a website" (lawyer OR attorney OR "la... → 0 results
+2026-05-17 09:23:54,237 | INFO    | scraper | Nitter https://nitter.lqdev.org | "need a website" (lawyer OR attorney OR "law offic... → 0 results
+2026-05-17 09:23:56,758 | INFO    | scraper | Nitter https://nitter.lqdev.org | "no website yet" (law OR legal OR attorney)... → 0 results
+2026-05-17 09:24:01,497 | INFO    | scraper | Nitter https://nitter.lqdev.org | "want a website" (lawyer OR firm)... → 0 results
+2026-05-17 09:24:04,273 | INFO    | scraper | Nitter https://nitter.lqdev.org | "doesn't have a website" attorney... → 0 results
+2026-05-17 09:24:07,177 | INFO    | scraper | Nitter https://nitter.lqdev.org | "build me a website" (lawyer OR attorney)... → 0 results
+2026-05-17 09:24:10,948 | INFO    | scraper | Nitter https://nitter.net | "recommend a web designer" (lawyer OR legal)... → 0 results
+2026-05-17 09:24:11,983 | INFO    | scraper | Nitter https://nitter.lqdev.org | "help with website" ("law firm" OR attorney)... → 0 results
+2026-05-17 09:24:15,508 | INFO    | scraper | Twitter scraper: 0 unique results
+2026-05-17 09:24:15,509 | INFO    | scraper | ============================================================
+2026-05-17 09:24:15,509 | INFO    | scraper | Starting LinkedIn scrape...
+2026-05-17 09:24:17,190 | INFO    | scraper | Nitter https://nitter.lqdev.org | "recommend a web designer" (lawyer OR legal)... → 0 results
+2026-05-17 09:24:23,200 | INFO    | scraper | Nitter https://nitter.kavin.rocks | "looking for a website" (lawyer OR attorney OR "la... → 0 results
+2026-05-17 09:24:28,755 | INFO    | scraper | Nitter https://nitter.kavin.rocks | "need a website" (lawyer OR attorney OR "law offic... → 0 results
+2026-05-17 09:24:33,931 | INFO    | scraper | Nitter https://nitter.kavin.rocks | "no website yet" (law OR legal OR attorney)... → 0 results
+2026-05-17 09:24:35,562 | INFO    | scraper | LinkedIn | "looking for web developer" (lawyer OR attorney)... → scraped page
+2026-05-17 09:24:39,735 | INFO    | scraper | Nitter https://nitter.kavin.rocks | "want a website" (lawyer OR firm)... → 0 results
+2026-05-17 09:24:43,116 | INFO    | scraper | Nitter https://nitter.kavin.rocks | "doesn't have a website" attorney... → 0 results
+2026-05-17 09:24:48,461 | INFO    | scraper | Nitter https://nitter.kavin.rocks | "build me a website" (lawyer OR attorney)... → 0 results
+2026-05-17 09:24:52,286 | INFO    | scraper | Nitter https://nitter.kavin.rocks | "help with website" ("law firm" OR attorney)... → 0 results
+2026-05-17 09:24:56,605 | INFO    | scraper | Nitter https://nitter.kavin.rocks | "recommend a web designer" (lawyer OR legal)... → 0 results
+2026-05-17 09:24:56,810 | INFO    | scraper | LinkedIn | "need help with website" "law firm"... → scraped page
+2026-05-17 09:25:03,327 | INFO    | scraper | Nitter https://nitter.net | "looking for a website" (lawyer OR attorney OR "la... → 0 results
+2026-05-17 09:25:06,370 | INFO    | scraper | Nitter https://nitter.net | "need a website" (lawyer OR attorney OR "law offic... → 0 results
+2026-05-17 09:25:11,140 | INFO    | scraper | Nitter https://nitter.net | "no website yet" (law OR legal OR attorney)... → 0 results
+2026-05-17 09:25:17,952 | INFO    | scraper | Nitter https://nitter.net | "want a website" (lawyer OR firm)... → 0 results
+2026-05-17 09:25:18,836 | INFO    | scraper | LinkedIn | "website for my practice" (attorney OR "law office... → scraped page
+2026-05-17 09:25:22,685 | INFO    | scraper | Nitter https://nitter.net | "doesn't have a website" attorney... → 0 results
+2026-05-17 09:25:25,908 | INFO    | scraper | Nitter https://nitter.net | "build me a website" (lawyer OR attorney)... → 0 results
+2026-05-17 09:25:30,326 | INFO    | scraper | Nitter https://nitter.net | "help with website" ("law firm" OR attorney)... → 0 results
+2026-05-17 09:25:34,607 | INFO    | scraper | Nitter https://nitter.net | "recommend a web designer" (lawyer OR legal)... → 0 results
+2026-05-17 09:25:37,878 | INFO    | scraper | LinkedIn | "anyone know a good web designer" lawyer... → scraped page
+2026-05-17 09:25:39,800 | INFO    | scraper | Twitter scraper: 0 unique results
+2026-05-17 09:25:39,801 | INFO    | scraper | ============================================================
+2026-05-17 09:25:39,801 | INFO    | scraper | Starting LinkedIn scrape...
+2026-05-17 09:25:43,496 | INFO    | scraper | LinkedIn scraper: 0 unique results
+2026-05-17 09:25:43,496 | INFO    | scraper | ============================================================
+2026-05-17 09:25:43,496 | INFO    | scraper | Starting Reddit scrape...
+2026-05-17 09:25:45,181 | INFO    | scraper | Reddit r/Lawyertalk | "website for law firm" → parsed entries
+2026-05-17 09:25:49,308 | INFO    | scraper | Reddit r/Lawyertalk | "attorney website" → parsed entries
+2026-05-17 09:25:52,519 | INFO    | scraper | Reddit r/Lawyertalk | "lawyer web design" → parsed entries
+2026-05-17 09:25:55,764 | INFO    | scraper | Reddit r/Lawyertalk | "build website lawyer" → parsed entries
+2026-05-17 09:25:57,046 | INFO    | scraper | LinkedIn | "looking for web developer" (lawyer OR attorney)... → scraped page
+2026-05-17 09:25:58,508 | INFO    | scraper | Reddit r/Lawyertalk | "law firm website" → parsed entries
+2026-05-17 09:26:02,814 | INFO    | scraper | Reddit r/Lawyertalk | "website for my law" → parsed entries
+2026-05-17 09:26:09,466 | INFO    | scraper | Reddit r/Lawyertalk | "need a website" law → parsed entries
+2026-05-17 09:26:14,770 | INFO    | scraper | Reddit r/LawFirm | "website for law firm" → parsed entries
+2026-05-17 09:26:16,265 | INFO    | scraper | LinkedIn | "need help with website" "law firm"... → scraped page
+2026-05-17 09:26:20,649 | INFO    | scraper | Reddit r/LawFirm | "attorney website" → parsed entries
+2026-05-17 09:26:25,798 | INFO    | scraper | Reddit r/LawFirm | "lawyer web design" → parsed entries
+2026-05-17 09:26:32,638 | INFO    | scraper | Reddit r/LawFirm | "build website lawyer" → parsed entries
+2026-05-17 09:26:35,517 | INFO    | scraper | LinkedIn | "website for my practice" (attorney OR "law office... → scraped page
+2026-05-17 09:26:35,630 | INFO    | scraper | Reddit r/LawFirm | "law firm website" → parsed entries
+2026-05-17 09:26:39,919 | INFO    | scraper | Reddit r/LawFirm | "website for my law" → parsed entries
+2026-05-17 09:26:42,824 | INFO    | scraper | Reddit r/LawFirm | "need a website" law → parsed entries
+2026-05-17 09:26:45,613 | INFO    | scraper | Reddit r/SmallBusiness | "website for law firm" → parsed entries
+2026-05-17 09:26:49,481 | INFO    | scraper | Reddit r/SmallBusiness | "attorney website" → parsed entries
+2026-05-17 09:26:54,178 | INFO    | scraper | Reddit r/SmallBusiness | "lawyer web design" → parsed entries
+2026-05-17 09:26:57,571 | INFO    | scraper | LinkedIn | "anyone know a good web designer" lawyer... → scraped page
+2026-05-17 09:26:59,053 | INFO    | scraper | Reddit r/SmallBusiness | "build website lawyer" → parsed entries
+2026-05-17 09:27:03,342 | INFO    | scraper | LinkedIn scraper: 0 unique results
+2026-05-17 09:27:03,342 | INFO    | scraper | ============================================================
+2026-05-17 09:27:03,342 | INFO    | scraper | Starting Reddit scrape...
+2026-05-17 09:27:03,886 | INFO    | scraper | Reddit r/Lawyertalk | "website for law firm" → parsed entries
+2026-05-17 09:27:04,406 | INFO    | scraper | Reddit r/SmallBusiness | "law firm website" → parsed entries
+2026-05-17 09:27:07,480 | INFO    | scraper | Reddit r/SmallBusiness | "website for my law" → parsed entries
+2026-05-17 09:27:10,291 | INFO    | scraper | Reddit r/Lawyertalk | "attorney website" → parsed entries
+2026-05-17 09:27:11,139 | INFO    | scraper | Reddit r/SmallBusiness | "need a website" law → parsed entries
+2026-05-17 09:27:14,039 | INFO    | scraper | Reddit r/legaladvice | "website for law firm" → parsed entries
+2026-05-17 09:27:15,514 | INFO    | scraper | Reddit r/Lawyertalk | "lawyer web design" → parsed entries
+2026-05-17 09:27:18,838 | INFO    | scraper | Reddit r/legaladvice | "attorney website" → parsed entries
+2026-05-17 09:27:20,182 | INFO    | scraper | Reddit r/Lawyertalk | "build website lawyer" → parsed entries
+2026-05-17 09:27:23,718 | INFO    | scraper | Reddit r/legaladvice | "lawyer web design" → parsed entries
+2026-05-17 09:27:23,787 | INFO    | scraper | Reddit r/Lawyertalk | "law firm website" → parsed entries
+2026-05-17 09:27:26,552 | INFO    | scraper | Reddit r/Lawyertalk | "website for my law" → parsed entries
+2026-05-17 09:27:27,085 | INFO    | scraper | Reddit r/legaladvice | "build website lawyer" → parsed entries
+2026-05-17 09:27:30,894 | INFO    | scraper | Reddit r/legaladvice | "law firm website" → parsed entries
+2026-05-17 09:27:31,405 | INFO    | scraper | Reddit r/Lawyertalk | "need a website" law → parsed entries
+2026-05-17 09:27:36,636 | INFO    | scraper | Reddit r/LawFirm | "website for law firm" → parsed entries
+2026-05-17 09:27:37,167 | INFO    | scraper | Reddit r/legaladvice | "website for my law" → parsed entries
+2026-05-17 09:27:41,433 | INFO    | scraper | Reddit r/legaladvice | "need a website" law → parsed entries
+2026-05-17 09:27:42,792 | INFO    | scraper | Reddit r/LawFirm | "attorney website" → parsed entries
+2026-05-17 09:27:47,675 | INFO    | scraper | Reddit r/Entrepreneur | "website for law firm" → parsed entries
+2026-05-17 09:27:48,610 | INFO    | scraper | Reddit r/LawFirm | "lawyer web design" → parsed entries
+2026-05-17 09:27:51,468 | INFO    | scraper | Reddit r/Entrepreneur | "attorney website" → parsed entries
+2026-05-17 09:27:52,284 | INFO    | scraper | Reddit r/LawFirm | "build website lawyer" → parsed entries
+2026-05-17 09:27:55,483 | INFO    | scraper | Reddit r/LawFirm | "law firm website" → parsed entries
+2026-05-17 09:27:55,812 | INFO    | scraper | Reddit r/Entrepreneur | "lawyer web design" → parsed entries
+2026-05-17 09:28:00,076 | INFO    | scraper | Reddit r/LawFirm | "website for my law" → parsed entries
+2026-05-17 09:28:00,260 | INFO    | scraper | Reddit r/Entrepreneur | "build website lawyer" → parsed entries
+2026-05-17 09:28:03,702 | INFO    | scraper | Reddit r/LawFirm | "need a website" law → parsed entries
+2026-05-17 09:28:05,442 | INFO    | scraper | Reddit r/Entrepreneur | "law firm website" → parsed entries
+2026-05-17 09:28:09,663 | INFO    | scraper | Reddit r/SmallBusiness | "website for law firm" → parsed entries
+2026-05-17 09:28:11,697 | INFO    | scraper | Reddit r/Entrepreneur | "website for my law" → parsed entries
+2026-05-17 09:28:12,911 | INFO    | scraper | Reddit r/SmallBusiness | "attorney website" → parsed entries
+2026-05-17 09:28:16,605 | INFO    | scraper | Reddit r/Entrepreneur | "need a website" law → parsed entries
+2026-05-17 09:28:19,227 | INFO    | scraper | Reddit r/SmallBusiness | "lawyer web design" → parsed entries
+2026-05-17 09:28:22,260 | INFO    | scraper | Reddit r/SmallBusiness | "build website lawyer" → parsed entries
+2026-05-17 09:28:28,692 | INFO    | scraper | Reddit r/SmallBusiness | "law firm website" → parsed entries
+2026-05-17 09:28:31,671 | INFO    | scraper | Reddit r/SmallBusiness | "website for my law" → parsed entries
+2026-05-17 09:28:32,874 | INFO    | scraper | Reddit scraper: 9 unique posts
+2026-05-17 09:28:32,877 | INFO    | pipeline | twitter: 0 raw leads
+2026-05-17 09:28:32,877 | INFO    | pipeline | linkedin: 0 raw leads
+2026-05-17 09:28:32,877 | INFO    | pipeline | reddit: 9 raw leads
+2026-05-17 09:28:32,877 | INFO    | pipeline | Enriching profiles for 9 leads...
+2026-05-17 09:28:35,988 | INFO    | scraper | Reddit r/SmallBusiness | "need a website" law → parsed entries
+2026-05-17 09:28:39,990 | INFO    | scraper | Reddit r/legaladvice | "website for law firm" → parsed entries
+2026-05-17 09:28:41,804 | INFO    | pipeline | Scoring and ranking leads...
+2026-05-17 09:28:41,806 | INFO    | scorer | Scored 9 leads — top score: 20
+2026-05-17 09:28:41,806 | INFO    | pipeline | Deduplicating...
+2026-05-17 09:28:41,816 | INFO    | pipeline | After dedup: 9 new leads (from 9 candidates)
+2026-05-17 09:28:41,816 | INFO    | pipeline | Writing 9 leads to Google Sheet...
+2026-05-17 09:28:41,816 | ERROR   | sheets | Google service account key not found at ./service-account.json
+2026-05-17 09:28:41,817 | WARNING | sheets | Cannot write to sheets — no Google auth available
+2026-05-17 09:28:41,817 | INFO    | pipeline | Processing outreach...
+2026-05-17 09:28:41,817 | INFO    | outreach | Outreach summary: {'emails_sent': 0, 'emails_failed': 0, 'dm_drafts_generated': 9, 'total_processed': 9}
+2026-05-17 09:28:41,819 | INFO    | deduplicator | Marked 9 leads as seen in dedup DB
+2026-05-17 09:28:41,823 | INFO    | pipeline | Dedup DB stats: {'total_leads': 9, 'unique_authors': 9, 'by_platform': {'Reddit': 9}}
+2026-05-17 09:28:41,823 | INFO    | pipeline | ======================================================================
+2026-05-17 09:28:41,823 | INFO    | pipeline | PIPELINE COMPLETE
+2026-05-17 09:28:41,823 | INFO    | pipeline |   Duration: 407.7s
+2026-05-17 09:28:41,823 | INFO    | pipeline |   Leads scraped:   9
+2026-05-17 09:28:41,823 | INFO    | pipeline |   After scoring:   9
+2026-05-17 09:28:41,823 | INFO    | pipeline |   After dedup:     9
+2026-05-17 09:28:41,823 | INFO    | pipeline |   Final top 100:   9
+2026-05-17 09:28:41,823 | INFO    | pipeline |   Emails sent:     0
+2026-05-17 09:28:41,823 | INFO    | pipeline |   DM drafts:       9
+2026-05-17 09:28:41,823 | INFO    | pipeline |   Emails failed:   0
+2026-05-17 09:28:41,823 | INFO    | pipeline | ======================================================================
+2026-05-17 09:28:43,316 | INFO    | scraper | Reddit r/legaladvice | "attorney website" → parsed entries
+2026-05-17 09:28:49,751 | INFO    | scraper | Reddit r/legaladvice | "lawyer web design" → parsed entries
+2026-05-17 09:28:55,889 | INFO    | scraper | Reddit r/legaladvice | "build website lawyer" → parsed entries
+2026-05-17 09:29:01,540 | INFO    | scraper | Reddit r/legaladvice | "law firm website" → parsed entries
+2026-05-17 09:29:04,335 | INFO    | scraper | Reddit r/legaladvice | "website for my law" → parsed entries
+2026-05-17 09:29:07,118 | INFO    | scraper | Reddit r/legaladvice | "need a website" law → parsed entries
+2026-05-17 09:29:10,425 | INFO    | scraper | Reddit r/Entrepreneur | "website for law firm" → parsed entries
+2026-05-17 09:29:16,611 | INFO    | scraper | Reddit r/Entrepreneur | "attorney website" → parsed entries
+2026-05-17 09:29:22,097 | INFO    | scraper | Reddit r/Entrepreneur | "lawyer web design" → parsed entries
+2026-05-17 09:29:32,279 | INFO    | scraper | Reddit r/Entrepreneur | "build website lawyer" → parsed entries
+2026-05-17 09:29:39,255 | INFO    | scraper | Reddit r/Entrepreneur | "law firm website" → parsed entries
+2026-05-17 09:29:42,824 | INFO    | scraper | Reddit r/Entrepreneur | "website for my law" → parsed entries
+2026-05-17 09:29:48,347 | INFO    | scraper | Reddit r/Entrepreneur | "need a website" law → parsed entries
+2026-05-17 09:30:14,341 | INFO    | scraper | Reddit scraper: 9 unique posts
+2026-05-17 09:30:14,344 | INFO    | pipeline | twitter: 0 raw leads
+2026-05-17 09:30:14,344 | INFO    | pipeline | linkedin: 0 raw leads
+2026-05-17 09:30:14,344 | INFO    | pipeline | reddit: 9 raw leads
+2026-05-17 09:30:14,344 | INFO    | pipeline | Enriching profiles for 9 leads...
+2026-05-17 09:30:31,681 | INFO    | pipeline | Scoring and ranking leads...
+2026-05-17 09:30:31,683 | INFO    | scorer | Scored 9 leads — top score: 20
+2026-05-17 09:30:31,683 | INFO    | pipeline | Deduplicating...
+2026-05-17 09:30:31,693 | INFO    | deduplicator | Dedup skipped 9 already-seen leads
+2026-05-17 09:30:31,693 | INFO    | pipeline | After dedup: 0 new leads (from 9 candidates)
+2026-05-17 09:30:31,693 | INFO    | pipeline | No new leads to process today.
